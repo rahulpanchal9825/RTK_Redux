@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "i phone 11",
+      "desc": "Color:magenta",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "i phone 12",
+      "desc": "Color:green"
+    }
+  ]
+}
